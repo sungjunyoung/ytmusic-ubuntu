@@ -42,4 +42,6 @@ Done.
 - Login with google account
 - Close the browser `https://music.youtube.com` tab and login window
 - Right click the `SIGN IN` button and choose `Open Link In New Window` again
+- Close window that opened
+- Refresh your application with `Ctrl + R`
 - Now you can use application without login
