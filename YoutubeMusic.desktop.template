@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Youtube Music
+Name[en_US]=Youtube Music
+Comment=Youtube Music Application for Ubuntu
+Exec="{{PATH}}/youtube-music"
+Terminal=false
+Categories=Application;
+Type=Application
+Icon={{PATH}}/resources/app/icon.png
